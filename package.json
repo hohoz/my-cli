@@ -1,0 +1,26 @@
+{
+  "name": "ho-cli",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.3",
+    "download-git-repo": "^1.1.0",
+    "inquirer": "^6.5.2",
+    "ora": "^3.4.0"
+  },
+  "bin": {
+    "ho": "./bin/ho",
+    "ho-add": "bin/ho-add",
+    "ho-delete": "bin/ho-delete",
+    "ho-list": "bin/ho-list",
+    "ho-init": "bin/ho-init"
+  }
+}
