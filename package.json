@@ -18,9 +18,9 @@
   },
   "bin": {
     "ho": "./bin/ho",
-    "ho-add": "bin/ho-add",
-    "ho-delete": "bin/ho-delete",
-    "ho-list": "bin/ho-list",
-    "ho-init": "bin/ho-init"
+    "ho add": "bin/ho-add",
+    "ho delete": "bin/ho-delete",
+    "ho list": "bin/ho-list",
+    "ho init": "bin/ho-init"
   }
 }

@@ -8,14 +8,14 @@ npm i -g ho-cli
 ho -V
 
 #添加模板
-ho-add
+ho add
 
 #删除模板
-ho-delete
+ho delete
 
 #初始化一个项目
-ho-init 模板名称 项目名称
+ho init 模板名称 项目名称
 
 #查看模板列表
-ho-list
+ho list
 ```
