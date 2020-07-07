@@ -19,3 +19,15 @@ ho init 模板名称 项目名称
 #查看模板列表
 ho list
 ```
+
+```
+# 升级补丁版本号
+$ npm version patch
+
+# 升级小版本号
+$ npm version minor
+
+# 升级大版本号
+$ npm version major
+
+```
